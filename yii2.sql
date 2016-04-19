@@ -48,6 +48,3 @@ INSERT INTO `user` (`id`, `login`, `email`, `password_hash`, `status`, `id_usert
 (4, 'user2', 'user2@user.user', '$2y$13$ZN8XBOr6JEUWlk8.bjZ4PO0XWwJpd9fWRPT.N.yHG1eOJkwofGeHa', 10, 'Менеджер', '');
 
 
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
