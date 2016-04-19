@@ -11,3 +11,6 @@ return [
     'password' => 'Пароль',
     'charset' => 'utf8',
 ];
+
+
+перейти по адресу URL/basic/web/index.php
